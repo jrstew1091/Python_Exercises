@@ -1,0 +1,9 @@
+Chapter 5 Challenge 1
+
+Add XY Coordinates:
+The only required parameter is input features or in_features.  There are no optional parameters.
+
+Dissolve:
+required parameters:  input features or in_features, output feature class or out_feature_class
+
+otptional parameters: dissolve_field, statistics_fields, multi_part, unsplit_lines
