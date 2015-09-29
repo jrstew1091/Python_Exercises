@@ -1,7 +1,7 @@
 import arcpy
 from arcpy import env
 
-env.workspace = "P:\Data\Exercise06"
+env.workspace = "E:/School/Python/Python/Data/Exercise06"
 
 fclist = arcpy.ListFeatureClasses()
 
